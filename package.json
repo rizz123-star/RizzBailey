@@ -6,12 +6,12 @@
     "whatsapp",
     "automation"
   ],
-  "homepage": "https://github.com/seiren-primrose/PL-Baileys/",
+  "homepage": "https://github.com/rizz123-star/RizzBailey",
   "repository": {
-    "url": "git@github.com:seiren-primrose/PL-Baileys.git"
+    "url": "git@github.com:rizz123-star/RizzBailey.git"
   },
   "license": "MIT",
-  "author": "Rajeh Taher",
+  "author": "Rizztzy",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
